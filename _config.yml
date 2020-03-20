@@ -21,7 +21,7 @@
 title: chrikri's site!
 email: p17krye@ionio.gr
 description: >- # this means to ignore newlines until "baseurl:"
-	This is a new site for the course Software Technologies.
+  This is a new site for the course Software Technologies.
 baseurl: "/chrikri." # the subpath of your site, e.g. /blog
 url: "https://netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Christiana_Kr
